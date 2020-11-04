@@ -1,0 +1,25 @@
+body {
+    width: 300px;
+}
+
+h1 {
+    text-align: left;
+    margin-bottom: 1px;
+}
+
+p {
+    border: 1px solid black;
+    border-top: none;
+    text-align: left;
+    margin: 0px;
+    padding: 10px;
+    line-height: 120%;
+}
+
+p:hover {
+    background-color: lightcoral;
+}
+
+.last {
+    border-bottom: none;
+}
